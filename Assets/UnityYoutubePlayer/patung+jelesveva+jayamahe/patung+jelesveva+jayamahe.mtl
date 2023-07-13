@@ -1,0 +1,57 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Material12
+Ka 0.000000 0.000000 0.000000
+Kd 0.588235 0.678431 0.721569
+Ks 0.330000 0.330000 0.330000
+map_Kd patung+jelesveva+jayamahe/Material12.jpg
+
+newmtl Material11
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.635294 0.635294
+Ks 0.330000 0.330000 0.330000
+map_Kd patung+jelesveva+jayamahe/Material11.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.890196 0.882353 0.870588
+Ks 0.330000 0.330000 0.330000
+
+newmtl Material4
+Ka 0.000000 0.000000 0.000000
+Kd 0.215686 0.337255 0.325490
+Ks 0.330000 0.330000 0.330000
+map_Kd patung+jelesveva+jayamahe/Material4.jpg
+
+newmtl Material5
+Ka 0.000000 0.000000 0.000000
+Kd 0.709804 0.721569 0.705882
+Ks 0.330000 0.330000 0.330000
+map_Kd patung+jelesveva+jayamahe/Material5.jpg
+
+newmtl Material8
+Ka 0.000000 0.000000 0.000000
+Kd 0.909804 0.901961 0.858824
+Ks 0.330000 0.330000 0.330000
+map_Kd patung+jelesveva+jayamahe/Material8.jpg
+
+newmtl _1
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.200000 0.200000
+Ks 0.330000 0.330000 0.330000
+map_Kd patung+jelesveva+jayamahe/_1.jpg
+
+newmtl Material3
+Ka 0.000000 0.000000 0.000000
+Kd 0.772549 0.768627 0.737255
+Ks 0.330000 0.330000 0.330000
+map_Kd patung+jelesveva+jayamahe/Material3.jpg
+
+newmtl Material10
+Ka 0.000000 0.000000 0.000000
+Kd 0.823529 0.811765 0.760784
+Ks 0.330000 0.330000 0.330000
+map_Kd patung+jelesveva+jayamahe/Material10.jpg
+

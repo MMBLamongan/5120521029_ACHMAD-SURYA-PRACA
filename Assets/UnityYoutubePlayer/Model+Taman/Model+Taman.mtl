@@ -1,0 +1,22 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Google_Earth_Snapshot
+Ka 0.000000 0.000000 0.000000
+Kd 0.298039 0.392157 0.376471
+Ks 0.330000 0.330000 0.330000
+map_Kd Model+Taman/Google_Earth_Snapshot.jpg
+
+newmtl Surabaya
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.521569 0.537255
+Ks 0.330000 0.330000 0.330000
+map_Kd Model+Taman/Surabaya.jpg
+
+newmtl Translucent_Glass_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.501961
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+

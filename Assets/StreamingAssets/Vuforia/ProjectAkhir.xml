@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="KBSMarker" size="1.000000 0.768750" />
+    <ImageTarget name="MonumenJalesvevaMarker" size="1.000000 0.749035" />
+    <ImageTarget name="BamburuncingMarker" size="1.000000 1.117188" />
+    <ImageTarget name="TugupahlawanMarker" size="1.000000 0.749035" />
+  </Tracking>
+</QCARConfig>
